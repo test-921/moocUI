@@ -2,7 +2,7 @@
 卡片组件
 
 ### 示例
-<m-card imgSrc="/logo.png" summary="Vue" />
+<m-card imgSrc="/moocUI/logo.png" summary="Vue" />
 
 ### 代码
 ```html
